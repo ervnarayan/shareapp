@@ -1,0 +1,15 @@
+:root {
+    --main-bg-color: #edf5fe;
+    /* --bg-color: #fefefe; */
+    --light-orange: #f5a623;
+    --border-color: #f5a623;
+    --container-width: 500px;
+    --bg-color: #bdece6;
+  }
+  
+  body {
+    font-family: system-ui;
+    background: var(--bg-color);
+    height: 98vh;
+    overflow: hidden;
+  }
